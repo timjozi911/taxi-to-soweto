@@ -1,7 +1,3 @@
-# taxi-to-soweto
-
 <div id="header" align="center">
-  <img src="https://www.vw.com.mx/es.html" width="100"/>
+  <img src="https://media.giphy.com/media/5bo92jPBIWKtHUump7/giphy.gif" />
 </div>
-
-Self driving ML cab
